@@ -1,0 +1,2 @@
+This file contains all of the mp3 files
+needed by shotokai_practice.py
