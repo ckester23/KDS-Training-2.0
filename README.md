@@ -13,6 +13,4 @@ If you wish to do a full training exercise by working on all the techniques you 
 
 All the techniques are sorted into these categories: Tachikata - Stances Tsuki-te - Hand Techniques / Strikes Geri - Kicks Uke - Blocks General - Other commonly used terms Kata - Kata
 
-This file requires the use of the mp3's in the sound_files folder
-
-Please Note: This is my first post on Github, I am still very new to the formatting of this website, so please forgive my less than optimal organization.
+This file requires the use of the mp3's in the mp3 Files branch. 
