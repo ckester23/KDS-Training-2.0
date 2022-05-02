@@ -1,5 +1,5 @@
 # KDS-Training-2.0
-An improved repository for my KDS Training Program
+An improved repository for my KDS Training Program PYTHON VERSION
 
 Author: Cheyanne Kester File: Karate-Do Shotokai Belt Test Training
 
